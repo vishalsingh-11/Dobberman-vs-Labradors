@@ -18,15 +18,16 @@ IAA is basically how well multiple annotators can make the same annotation decis
 Cohen kappa is calculated between a pair of annotators 
 Fleiss’ kappa over a group of multiple annotators.
 
-Here in our use case, we have two annotators (group of 2) hence, we would be considering Cohen kappa to our dataset.<br>
+Here in our use case, we have two annotators (group of 2) hence, we would be considering Cohen kappa to our dataset.
 
 ![alt text](https://github.com/vishalsingh-11/Dobberman-vs-Labradors/blob/main/Kappa.png?raw=true)
 
 
-The Cohen kappa is calculated as 
+The Cohen kappa is calculated as
+
 ![alt text](https://github.com/vishalsingh-11/Dobberman-vs-Labradors/blob/main/cohen_kappa.png?raw=true)
 
 
 
-The IAA value for our dataset is 1.0 which implies Almost perfect agreement
+The IAA value for our dataset is 1.0 which implies <b>Almost perfect agreement</b>
 
